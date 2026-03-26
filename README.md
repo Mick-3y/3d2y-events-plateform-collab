@@ -20,8 +20,8 @@ npm install
 ## Configuration
 Créer un fichier .env à la racine du projet :
 
-DATABASE_URL="postgresql://eliel:eliel123@localhost:5432/3d2y_local"
-DIRECT_URL="postgresql://eliel:eliel123@localhost:5432/3d2y_local"
+DATABASE_URL="postgresql://postgres:9876543210J@m*@localhost:5432/3d2y_local"
+DIRECT_URL="postgresql://postgres:9876543210J@m*@localhost:5432/3d2y_local"
 NEXT_PUBLIC_APP_URL="http://localhost:3000"
 
 ## Base de données locale
